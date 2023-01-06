@@ -1,0 +1,27 @@
+p
+{
+    background-color: rgb(226, 142, 181);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+/* a light red/pink background, and a list of fonts containing `Verdana` and `DejaVu Sans` with `sans-serif` as a fallback */
+
+#two
+{
+    color: rgb(21, 62, 152);
+    font-size: 36px;
+}
+/*blue text and a font size of 36px*/
+
+.three
+{
+    font-size: 24px;
+}
+/*in addition to the styles for all odd numbered elements, add a font size of 24px*/
+
+#four
+{
+    background-color: rgb(127, 255, 212);
+    font-size: 24px;
+    font-weight: bold;
+}
+/*a light green background, a font size of 24px, and bold*/
